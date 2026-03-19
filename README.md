@@ -1,8 +1,6 @@
 # Population Dynamics and Projections (PDP) 2026
 
-This repository contains teaching materials and code for the Forecasting II practical sessions of the course Population Dynamics and Projections (PDP).
-
-The repository supports the implementation of statistical and demographic forecasting methods, with a particular focus on Bayesian approaches and demographic modelling. The materials are designed to help students understand how demographic data can be analysed and used to produce forecasts.
+This repository contains teaching materials and code for the practical sessions of the course Population Dynamics and Projections (PDP).
 
 ---------------------------------------------------------------------
 
@@ -10,7 +8,7 @@ REPOSITORY STRUCTURE
 
 The repository is organised as follows:
 
-Forecasting_II_PDP_2026/
+PDP_2026/
 
     README.txt
         Repository description and instructions
@@ -27,6 +25,7 @@ The src folder contains the scripts used during the course practicals. These scr
 • Simulation of demographic processes  
 • Implementation of statistical models  
 • Forecasting exercises  
+• Slides  
 
 The scripts are intended to be run sequentially during the practical sessions.
 
@@ -65,7 +64,7 @@ USAGE
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Forecasting_II_PDP_2026.git
+git clone https://github.com/yourusername/PDP_2026.git
 
 2. Navigate to the repository folder.
 
